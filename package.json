@@ -33,6 +33,6 @@
   },
   "devDependencies": {
     "@craco/craco": "^5.7.0",
-    "craco-plugin-multipage": "^0.1.1"
+    "craco-plugin-multipage": "^0.1.5"
   }
 }
