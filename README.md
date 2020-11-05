@@ -3,7 +3,10 @@ craco-plugin-multipage Demo
 
 
 开始
-
+```npm
+> npm i
 ```
-npm run start
+
+```npm
+> npm run start
 ```
